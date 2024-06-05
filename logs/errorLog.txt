@@ -1,0 +1,12 @@
+6a1ba76c-bbe8-4d72-8342-3ecf3231443f, 2024/05/17 16:58:28, 	TypeError: Cannot set properties of undefined (setting 'userId')
+ef519dc3-3e06-4051-99ec-8f85897f99ec, 2024/05/17 16:59:39, 	TypeError: Cannot set properties of undefined (setting 'userId')
+d175682c-7f65-492f-8fa3-b000df0b98bb, 2024/05/17 17:00:10, 	TypeError: Cannot set properties of undefined (setting 'userId')
+c4d2de83-e1d0-4a90-98f5-a69997b24c7a, 2024/05/17 17:00:12, 	TypeError: Cannot set properties of undefined (setting 'userId')
+35358c54-976e-4f46-a984-59d7c8af448b, 2024/05/17 17:00:18, 	TypeError: Cannot set properties of undefined (setting 'userId')
+d60bf795-df37-4501-92d4-a9b91b4d1852, 2024/05/19 00:18:13, 	ValidationError: roles.1: `libarian` is not a valid enum value for path `roles.1`.
+28af951c-e6cf-400b-8851-455ebb76fc0a, 2024/05/19 00:31:01, 	ValidationError: roles.1: `admn` is not a valid enum value for path `roles.1`.
+9272fe74-e0f7-42a9-b178-b4796d506ab0, 2024/05/26 06:11:47, 	ReferenceError: USER is not defined
+1e446d92-854f-4bb1-a175-12468cc230a5, 2024/05/26 06:33:36, 	ReferenceError: username is not defined
+cebb627b-2641-4012-b3a8-0a52e106b975, 2024/05/26 06:33:40, 	ReferenceError: username is not defined
+031fa886-df4e-4753-b5ce-29e986c099c0, 2024/05/26 06:33:50, 	ReferenceError: username is not defined
+f25e4e92-35f3-43cd-9686-8fb01bf99803, 2024/05/26 06:33:51, 	ReferenceError: username is not defined

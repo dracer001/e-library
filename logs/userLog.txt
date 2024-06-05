@@ -1,0 +1,59 @@
+07bc2f1b-77ed-4c4d-bd9b-821daed30e4b, 2024/05/17 16:48:21, 	New user registration, details => {
+  firstname: 'jan',
+  lastname: 'die',
+  email: 'helozi@gmail.com',
+  password: '$2b$10$WFfBxo5jbz.u/ZtqsOS9w.E3XONeIfp4rCGXEBKIfWIe30eePOXCK',
+  roles: [ 'user' ],
+  registration_date: 2024-05-17T15:48:21.000Z,
+  barn: 'null',
+  _id: new ObjectId('66477c457cc3d91a18f4aae1'),
+  __v: 0
+}
+59ef577f-4e44-49d9-b426-9837957516ad, 2024/05/17 16:51:07, 	New user registration, userId => 66477ceb3b71e962d667196a
+8fa25e64-093f-455e-ae9f-e421b33beba8, 2024/05/17 17:53:14, 	User SignIn, userId => 6647723e797307f5b6a6fea9
+31a8334d-4379-41ea-a370-31c3330212a7, 2024/05/17 18:09:40, 	User SignOut, userId => 6647723e797307f5b6a6fea9
+11003a97-5565-42ca-bb30-4b1a97bef468, 2024/05/17 18:10:38, 	User SignOut, userId => undefined
+7940be01-c225-4b06-b6af-e54e5718affd, 2024/05/17 18:10:39, 	User SignOut, userId => undefined
+6a99d5aa-e4d6-4973-b337-a8a1bd947ab6, 2024/05/18 01:37:38, 	User SignIn, userId => 6647723e797307f5b6a6fea9
+c191ba50-ee30-4857-9e06-ee36c01a2f1f, 2024/05/18 01:39:15, 	User SignIn, userId => 6647723e797307f5b6a6fea9
+45c750ca-caed-45c9-a733-232a61221228, 2024/05/18 01:39:22, 	User SignIn, userId => 6647723e797307f5b6a6fea9
+5eb75941-1896-4d4c-9f18-2d467ce6b60d, 2024/05/18 02:17:39, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname,_id
+9f3f3daf-8929-4011-b210-6e943153a444, 2024/05/18 02:18:27, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname,_id
+c4f329d1-4ac6-43fc-a7eb-26b7ebe4d531, 2024/05/18 02:18:39, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+3867b8f2-1c36-401a-a120-7ad9966fdcc1, 2024/05/18 02:18:43, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+8b612453-1aad-43d6-b2ee-ec541c3f4718, 2024/05/18 02:18:51, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+44ebcced-1925-44ef-933f-b524ee442869, 2024/05/18 02:19:22, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname,id
+b72e611f-544c-4cae-8ad6-4dbaf4b0458a, 2024/05/18 02:19:28, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+ca07efac-06ce-493b-81bd-d09bac06f53f, 2024/05/18 02:19:57, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+fa4c3749-4427-4aea-b45a-18e5c0b84846, 2024/05/18 02:20:21, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+6ac30578-0b8c-40e5-b523-4195176d4018, 2024/05/18 02:40:43, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+f9dc13d8-db0c-460a-b43e-269c2f903843, 2024/05/18 23:53:09, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+56419a97-73c3-4320-89f9-9b5c02e90862, 2024/05/18 23:53:25, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+d58a4bb6-7220-4edb-b36d-0e1621951f50, 2024/05/19 00:07:32, 	New user registration, userId => 664934b4b260d5dfb25afdc2
+88ef5a91-f828-4d75-b779-95fd089d75b7, 2024/05/19 00:08:14, 	New user registration, userId => 664934deb260d5dfb25afdc6
+973da003-acba-429c-83e2-03ddcff344cd, 2024/05/19 00:19:15, 	New user registration, userId => 66493773f1728883dfa14f45
+9858d41c-58bb-4865-ab9b-f847bd836f67, 2024/05/19 00:20:57, 	New user registration, userId => 664937d9372e72165fc256c6
+f38acedf-9b51-4edc-b879-24e1faa8132c, 2024/05/19 00:26:34, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+cde6b432-ca8c-4724-8005-8425318b3eaa, 2024/05/19 00:26:36, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname
+364cbe98-72dd-4477-b021-4a934bc8ae13, 2024/05/19 00:29:00, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname,roles
+e693f788-10f2-4a1d-93e2-54067a557d82, 2024/05/19 00:29:03, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname,roles
+e9adbd07-278f-472d-a186-127d0541f714, 2024/05/19 00:29:04, 	user data updated, userId => 6647723e797307f5b6a6fea9, fields => firstname,lastname,roles
+0e24ded9-7edd-48c2-bdb4-accf9084d88d, 2024/05/19 00:37:07, 	user password updated, userId => 6647723e797307f5b6a6fea9
+e492e2fc-c985-499d-b17e-e22871b85edc, 2024/05/19 00:45:43, 	user password updated, userId => 6647723e797307f5b6a6fea9
+66712ed6-cb92-4727-befa-640a6f7431cc, 2024/05/19 00:45:43, 	User SignOut, userId => 6647723e797307f5b6a6fea9
+d85fc644-5d82-41fd-ac1f-7344220958ad, 2024/05/19 01:10:59, 	User SignIn, userId => 6647723e797307f5b6a6fea9
+1b852453-ba14-415a-97c2-f94b2bf8f2b4, 2024/05/19 01:11:14, 	user password updated, userId => 6647723e797307f5b6a6fea9
+d13978d5-46de-40fe-a6f4-941fbcc23af8, 2024/05/19 01:13:15, 	User SignIn, userId => 6647723e797307f5b6a6fea9
+ecf1cef6-d308-493e-b487-01b34f8e41cc, 2024/05/19 01:13:26, 	user password updated, userId => 6647723e797307f5b6a6fea9
+2371ca88-a448-4e1a-8dec-feb62780dd3e, 2024/05/19 01:13:26, 	User SignOut, userId => 6647723e797307f5b6a6fea9
+d375eb34-9d88-4ddf-ad25-4a6ad699cb9e, 2024/05/21 00:57:16, 	User SignIn, userId => 6647723e797307f5b6a6fea9
+83e21b46-25d2-4fc5-9275-8442cb379d80, 2024/05/21 00:58:11, 	New user registration, userId => 664be393b19a51f073acff47
+94cfff9b-6de7-4f03-b1dc-b5c00fc332d0, 2024/05/21 01:00:31, 	User SignIn, userId => 664be393b19a51f073acff47
+b63ebe7a-607a-4501-9ae4-ed86f09183c3, 2024/05/21 01:41:56, 	User SignIn, userId => 664be393b19a51f073acff47
+02e33ccf-18f7-493d-aae5-ec733de57e87, 2024/05/21 03:43:09, 	User SignIn, userId => 664be393b19a51f073acff47
+bbfeed50-2485-48cb-9f5d-aaabfda103e3, 2024/05/21 04:10:58, 	User SignIn, userId => 6647723e797307f5b6a6fea9
+34b8bf7c-d81f-46f8-814f-d356b209bc07, 2024/05/21 04:11:18, 	User SignIn, userId => 664be393b19a51f073acff47
+c3cdd263-0798-42ad-bcf9-1507fb9c24f4, 2024/05/25 19:35:31, 	New user registration, userId => 66522f7354f58680921c6127
+cc5e8295-7473-4fcb-98d5-cdd5f95263ca, 2024/05/25 19:36:07, 	New user registration, userId => 66522f9754f58680921c612a
+33619038-07a4-4e8f-a99c-454024df2ebf, 2024/05/26 06:12:51, 	superUser set up, superId => 6652c4d3322fab92af347076
+ef1f702b-b1f5-4aae-b670-786ec0a0a9bd, 2024/05/26 06:35:38, 	superUser logIn, userId => 6652c4d3322fab92af347076
